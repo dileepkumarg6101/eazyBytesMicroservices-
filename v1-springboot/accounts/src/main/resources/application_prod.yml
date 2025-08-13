@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to EasyBank Accounts related prod APis"
+  contactDetails:
+    name: "Vinodh G _Product Owner"
+    email: "vinodhg6101@gmail.com"
+  onCallSupport:
+    - "(+91) 9989529543"
+    - "(+91) 9581061206"

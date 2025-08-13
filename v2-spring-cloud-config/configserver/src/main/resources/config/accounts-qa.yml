@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to EasyBank Accounts related QA APIs"
+  contactDetails:
+    name: "Govardhan G _QA Lead"
+    email: "govardhang6101@gmail.com"
+  onCallSupport:
+    - "(+91) 9989529543"
+    - "(+91) 9581061206"
